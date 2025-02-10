@@ -1,0 +1,20 @@
+[1: PROMPT: O que é o Pema Kathang? / RESPONSE: O Pema Kathang é um dos textos biográficos mais importantes sobre Guru Padmasambhava, descoberto no século XIV por Orgyen Lingpa. Ele contém 108 capítulos e aproximadamente 500 páginas, sendo considerado um relato direto das palavras de Padmasambhava, escritas por sua discípula Khandro Yeshé Tsogyal.]
+
+[2: PROMPT: Quais são as principais biografias de Guru Padmasambhava? / RESPONSE: As três principais biografias de Guru Padmasambhava são o Pema Kathang, descoberto por Orgyen Lingpa; o Kathang Dé Nga, também revelado por Orgyen Lingpa; e o Sertrengwa, descoberto por Sangyé Lingpa. Esses textos formam a base do conhecimento sobre a vida do Mahaguru.]
+
+[3: PROMPT: O que é o Sertrengwa? / RESPONSE: O Sertrengwa, ou Golden Garland Chronicles, é uma biografia em prosa de Guru Padmasambhava descoberta por Sangyé Lingpa no século XIV. Ele segue de perto o Pema Kathang e é considerado por muitos um autocomentário dessa obra.]
+
+[4: PROMPT: Quem traduziu o Pema Kathang para o francês e inglês? / RESPONSE: O Pema Kathang foi traduzido para o francês como 'Le Dict de Padma' por Gustave-Charles Toussaint em 1912. Em 1978, foi traduzido para o inglês por Kenneth Douglas e Gwendolyn Bays a partir da versão francesa.]
+
+[5: PROMPT: Quais são algumas fontes adicionais sobre Guru Padmasambhava? / RESPONSE: Além do Pema Kathang, outras fontes importantes incluem o Zanglingma (The Copper Palace), o Le’u Dünma (The Prayer in Seven Chapters), e textos revelados por mestres como Chokgyur Dechen Lingpa, Jamgön Kongtrul e Kyapjé Dudjom Rinpoché.]
+
+[6: PROMPT: Como as biografias de Guru Padmasambhava ajudam a identificar locais sagrados? / RESPONSE: Embora o Pema Kathang seja uma fonte central sobre a vida do Mahaguru, ele não detalha todos os locais sagrados. Outras fontes, como o Gangchen Nawé Düdtsi de Tenzin Chökyi Nyima, ajudam a identificar e descrever esses locais com mais precisão.]
+
+[7: PROMPT: O que é o Gangchen Nawé Düdtsi? / RESPONSE: O Gangchen Nawé Düdtsi, ou 'Nectar for Snow-Crusted Ears', é um famoso guia de peregrinação escrito pelo 4º Khamtrul Rinpoché, Tenzin Chökyi Nyima (1730–1780). Ele fornece informações detalhadas sobre locais sagrados associados a Guru Padmasambhava.]
+
+[8: PROMPT: Quais mestres modernos visitaram os locais sagrados de Guru Padmasambhava? / RESPONSE: Entre os grandes mestres contemporâneos que visitaram esses locais estão Kyapjé Jamyang Khyentsé Chökyi Lodrö, Kyapjé Dilgo Khyentsé Rinpoché, Kyapjé Dudjom Rinpoché, Kyapjé Jikmé Phuntsok Rinpoché e Kyapjé Chatral Rinpoché.]
+
+[9: PROMPT: O que é o projeto Nekhor? / RESPONSE: O projeto Nekhor busca preservar e compartilhar informações sobre os locais sagrados associados a Guru Padmasambhava. Ele se baseia em fontes históricas e contemporâneas para oferecer um guia confiável aos peregrinos.]
+
+[10: PROMPT: Onde posso aprender mais sobre o projeto Nekhor? / RESPONSE: Para saber mais sobre o projeto Nekhor, visite a seção 'ABOUT US' em seu site oficial, onde são compartilhadas informações detalhadas sobre a pesquisa e os textos utilizados.]
+

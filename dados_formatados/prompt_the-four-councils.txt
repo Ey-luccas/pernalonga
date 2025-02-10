@@ -1,0 +1,27 @@
+[1: PROMPT: O que foram os Quatro Conselhos Budistas? / RESPONSE: Os Quatro Conselhos Budistas foram reuniões históricas realizadas para preservar e organizar os ensinamentos de Buda após sua morte. Eles garantiram a autenticidade do Dharma e ajudaram a consolidar as escrituras budistas conhecidas como Tripitaka.]
+
+[2: PROMPT: Quando e onde ocorreu o Primeiro Conselho Budista? / RESPONSE: O Primeiro Conselho Budista ocorreu três meses após a morte de Buda, em Rajgir, sob a liderança de Mahakasyapa. O objetivo principal era reunir e padronizar os ensinamentos de Buda para evitar distorções.]
+
+[3: PROMPT: O que foi discutido no Primeiro Conselho Budista? / RESPONSE: No Primeiro Conselho, os ensinamentos de Buda foram recitados e organizados. Ananda recitou os Sutras, enquanto Upali recitou as regras monásticas (Vinaya), formando a base do Tripitaka.]
+
+[4: PROMPT: Quando e onde ocorreu o Segundo Conselho Budista? / RESPONSE: O Segundo Conselho Budista ocorreu cerca de 100 anos após o falecimento de Buda, em Vaishali. Seu principal objetivo foi discutir divergências sobre a disciplina monástica.]
+
+[5: PROMPT: O que foi decidido no Segundo Conselho Budista? / RESPONSE: No Segundo Conselho, os monges mais ortodoxos rejeitaram certas práticas permissivas adotadas por um grupo de monásticos. Isso resultou em uma divisão dentro da Sangha, contribuindo para a formação de diferentes escolas budistas.]
+
+[6: PROMPT: Quando e onde ocorreu o Terceiro Conselho Budista? / RESPONSE: O Terceiro Conselho Budista ocorreu aproximadamente 250 anos após a morte de Buda, em Pataliputra, durante o reinado do imperador Ashoka. O objetivo era purificar a Sangha e expandir o budismo para além da Índia.]
+
+[7: PROMPT: Qual foi o impacto do Terceiro Conselho Budista? / RESPONSE: O Terceiro Conselho resultou na compilação do Abhidharma e na missão de disseminação do budismo, liderada pelo monge Mahinda, que levou o Dharma para o Sri Lanka.]
+
+[8: PROMPT: Quando e onde ocorreu o Quarto Conselho Budista? / RESPONSE: O Quarto Conselho ocorreu em dois momentos distintos: o Theravadin, no Sri Lanka, aproximadamente 400 anos após Buda, onde o Tripitaka foi escrito pela primeira vez; e o Sarvastivadin, na Caxemira, promovido pelo rei Kanishka, que ajudou na consolidação do budismo Mahayana.]
+
+[9: PROMPT: Qual foi o impacto do Quarto Conselho Budista? / RESPONSE: O Quarto Conselho no Sri Lanka garantiu a preservação dos ensinamentos Theravada ao registrá-los por escrito, enquanto o conselho na Caxemira impulsionou o desenvolvimento da tradição Mahayana.]
+
+[10: PROMPT: O que é o Tripitaka? / RESPONSE: O Tripitaka, também conhecido como Tipitaka em Pali, é a coleção principal dos ensinamentos budistas, composta por três seções: Vinaya Pitaka (regras monásticas), Sutra Pitaka (discursos de Buda) e Abhidharma Pitaka (análises filosóficas e psicológicas).]
+
+[11: PROMPT: Como os Quatro Conselhos Budistas influenciaram o budismo moderno? / RESPONSE: Os Quatro Conselhos foram fundamentais para a preservação e propagação do budismo. Eles ajudaram a consolidar os textos sagrados, dividiram escolas e garantiram a continuidade dos ensinamentos de Buda ao longo dos séculos.]
+
+[12: PROMPT: Qual foi o papel do Imperador Ashoka no budismo? / RESPONSE: O Imperador Ashoka foi um dos maiores apoiadores do budismo. Durante o Terceiro Conselho, ele incentivou a disseminação da doutrina para além da Índia, enviando monges missionários para várias regiões da Ásia.]
+
+[13: PROMPT: Qual a relação entre os Conselhos Budistas e as escolas Theravada e Mahayana? / RESPONSE: Os Conselhos Budistas influenciaram a separação entre diferentes tradições. O Theravada foi fortalecido no Quarto Conselho no Sri Lanka, enquanto o Mahayana teve grande impulso no conselho realizado na Caxemira sob o rei Kanishka.]
+
+[14: PROMPT: O que teria acontecido se os Conselhos Budistas não tivessem ocorrido? / RESPONSE: Sem os Conselhos Budistas, os ensinamentos de Buda poderiam ter se perdido ou se fragmentado em diferentes interpretações sem uma base comum, dificultando sua transmissão e continuidade ao longo dos séculos.]

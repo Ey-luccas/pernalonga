@@ -1,0 +1,19 @@
+[1: PROMPT: O que são as Três Rotações da Roda do Dharma? / RESPONSE: As Três Rotações da Roda do Dharma referem-se a três estágios dos ensinamentos de Buda Shakyamuni, cada um adaptado às necessidades dos seres em diferentes níveis de entendimento. São elas: a Primeira Rotação em Sarnath, que ensina as Quatro Nobres Verdades; a Segunda Rotação em Rajgir, que aborda a vacuidade através do Prajñaparamita; e a Terceira Rotação, que introduz o conceito da natureza búdica.]
+
+[2: PROMPT: O que foi ensinado na Primeira Rotação da Roda do Dharma? / RESPONSE: Na Primeira Rotação da Roda do Dharma, realizada em Sarnath, o Buda ensinou as Quatro Nobres Verdades e os Doze Elos da Originação Dependente, destacando a natureza do sofrimento, sua causa, sua cessação e o caminho para superá-lo.]
+
+[3: PROMPT: Quais são as Quatro Nobres Verdades? / RESPONSE: As Quatro Nobres Verdades são: 1) A Verdade do Sofrimento, 2) A Verdade da Causa do Sofrimento, 3) A Verdade da Cessação do Sofrimento e 4) A Verdade do Caminho que leva à Cessação do Sofrimento.]
+
+[4: PROMPT: O que são os Doze Elos da Originação Dependente? / RESPONSE: Os Doze Elos da Originação Dependente explicam a interdependência dos fenômenos e como o ciclo do samsara se mantém. São eles: Ignorância, Forma Mental, Consciência, Nome e Forma, Seis Sentidos, Contato, Sensação, Desejo, Apego, Vir a Ser, Nascimento e Morte.]
+
+[5: PROMPT: O que foi ensinado na Segunda Rotação da Roda do Dharma? / RESPONSE: Na Segunda Rotação, realizada em Vulture Peak, Rajgir, o Buda ensinou a vacuidade através do Prajñaparamita. Ele explicou que não apenas o eu carece de existência inerente, mas também todos os fenômenos são vazios de uma identidade fixa.]
+
+[6: PROMPT: Quais são os principais sutras da Segunda Rotação da Roda do Dharma? / RESPONSE: Os principais sutras incluem o Sutra do Coração, o Sutra do Diamante, o Sutra do Lótus, o Sutra Vimalakirti e o Sutra Samadhiraja, todos enfatizando a vacuidade e a sabedoria transcendental.]
+
+[7: PROMPT: O que foi ensinado na Terceira Rotação da Roda do Dharma? / RESPONSE: Na Terceira Rotação, realizada em locais como Vaishali e Monte Malaya, o Buda ensinou que todos os seres possuem a natureza búdica (Tathagata-garbha), enfatizando a luminosidade da mente e o potencial inerente para a iluminação.]
+
+[8: PROMPT: O que significa Tathagata-garbha? / RESPONSE: Tathagata-garbha significa ‘matriz do Buda’ ou ‘natureza búdica’. Esse ensinamento afirma que todos os seres possuem, em sua essência, a natureza iluminada do Buda, que pode ser revelada com a purificação da mente.]
+
+[9: PROMPT: Quais são os principais sutras da Terceira Rotação da Roda do Dharma? / RESPONSE: Os principais sutras incluem o Sutra Tathagata-garbha, o Sutra Lankavatara, o Sutra Mahayana Mahaparinirvana, o Sutra Samdhinirmocana e o Sutra Avatamsaka, que enfatizam a natureza búdica e a luminosidade da mente.]
+
+[10: PROMPT: Qual a importância dos locais sagrados das Três Rotações da Roda do Dharma? / RESPONSE: Os locais sagrados onde Buda ensinou as Três Rotações são fundamentais para os praticantes budistas. Sarnath, Rajgir e Vaishali são destinos de peregrinação que inspiram devoção e facilitam a conexão com os ensinamentos profundos do Dharma.]

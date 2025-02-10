@@ -1,0 +1,23 @@
+[1: PROMPT: Quando é a melhor época para visitar a Índia e o Nepal? / RESPONSE: A melhor época para visitar a Índia e o Nepal é durante o outono (meados de setembro a final de novembro) e a primavera (final de fevereiro a final de maio). Evite os meses de verão na Índia, pois são extremamente quentes, e o período de monções (junho a setembro), quando há chuvas intensas.]
+
+[2: PROMPT: Como chegar ao Nepal? / RESPONSE: O Nepal pode ser alcançado via voo para o Aeroporto Internacional Tribhuvan, em Kathmandu. Para viajantes aventureiros com orçamento limitado, há ônibus disponíveis, mas as viagens podem ser desconfortáveis, longas e perigosas. Ao chegar, é necessário comprar um visto de entrada, pago em moeda estrangeira, como dólares ou euros.]
+
+[3: PROMPT: Como é o sistema de transporte na Índia? / RESPONSE: A Índia possui um extenso sistema ferroviário que conecta todas as principais cidades. Para os locais de peregrinação, é recomendado voar para Delhi ou Kolkata e depois usar trens ou voos regionais para cidades menores. Táxis e transporte público, como micro-ônibus e tuk-tuks, também estão amplamente disponíveis.]
+
+[4: PROMPT: Quais são os requisitos de visto para o Nepal? / RESPONSE: Turistas podem obter um visto ao chegar no Nepal, com opções de validade de uma semana a três meses. O visto pode ser estendido em Kathmandu, e o tempo máximo de permanência é de cinco meses por ano. A taxa do visto deve ser paga em moeda estrangeira, e fotos do passaporte não são mais necessárias para vistos de chegada.]
+
+[5: PROMPT: Como é o processo de visto para a Índia? / RESPONSE: Todos os visitantes da Índia, exceto cidadãos do Nepal e do Butão, precisam de um visto. Vistos eletrônicos (e-visas) estão disponíveis e podem ser processados em 2-4 dias. Cidadãos dos EUA podem solicitar um visto de turista válido por dez anos, mas devem aplicar com antecedência.]
+
+[6: PROMPT: Onde se hospedar no Nepal? / RESPONSE: Recomenda-se ficar em Boudha, uma área tranquila de Kathmandu, próxima à Stupa de Boudhanath. Há várias opções de hospedagem, desde guest houses econômicas até hotéis luxuosos. Boudha também oferece fácil acesso a restaurantes e transporte para locais de peregrinação.]
+
+[7: PROMPT: Quais cuidados tomar com a alimentação na Índia e no Nepal? / RESPONSE: Evite comer alimentos crus, incluindo vegetais crus. Beba apenas água fervida, engarrafada ou filtrada. Prefira alimentos cozidos e frutas descascadas. Escolha restaurantes com cuidado para evitar problemas de saúde.]
+
+[8: PROMPT: Como se locomover na Índia e no Nepal? / RESPONSE: Não dirija. Táxis estão amplamente disponíveis e os preços podem ser negociados. Para viajantes com orçamento limitado, micro-ônibus, tuk-tuks e ônibus são opções econômicas, mas geralmente mais lentas.]
+
+[9: PROMPT: Como lidar com dinheiro na Índia e no Nepal? / RESPONSE: É recomendado sacar dinheiro nas cidades maiores antes de viajar para áreas rurais. A Índia usa Rúpias Indianas (INR), e o Nepal usa Rúpias Nepalesas (NPR). Cartões de crédito como MasterCard e Visa são amplamente aceitos, mas é prudente carregar dinheiro ou cheques de viagem como backup.]
+
+[10: PROMPT: Como funciona a internet e telefonia móvel na Índia e no Nepal? / RESPONSE: WiFi está disponível na maioria dos hotéis e restaurantes nas cidades. Para telefones, é possível comprar chips SIM, que exigem uma cópia do passaporte e visto. O saldo pode ser recarregado com cartões de recarga, e os mesmos chips funcionam na Índia e no Nepal.]
+
+[11: PROMPT: O que saber antes de fazer compras na Índia e no Nepal? / RESPONSE: A maioria dos itens, exceto alimentos, está sujeita a negociação. Em Boudha, no Nepal, há uma grande variedade de objetos para altares budistas, mas verifique a autenticidade de itens como thangkas e incensos. Estátuas podem exigir uma licença de exportação.]
+
+[12: PROMPT: O que incluir no checklist antes de viajar para a Índia e Nepal? / RESPONSE: Inclua seguro de viagem, informações atualizadas sobre vacinas, roupas modestas, protetor solar, óculos de sol, chapéu, lanterna, protetores de ouvido, máscara contra poluição e sapatos fáceis de remover. Esteja preparado para imprevistos, pois nem tudo segue o planejado na Índia e no Nepal.]

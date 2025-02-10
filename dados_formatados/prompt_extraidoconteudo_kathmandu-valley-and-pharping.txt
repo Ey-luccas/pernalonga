@@ -1,0 +1,23 @@
+[1: PROMPT: O que é Kathmandu Valley? / RESPONSE: Kathmandu Valley é uma região do Nepal conhecida por sua rica história, cultura e locais sagrados. Abriga três antigas cidades reais: Kathmandu, Bhaktapur e Patan, cada uma com impressionantes templos, palácios e estúpas. É um destino popular para peregrinação e turismo.
+
+[2: PROMPT: O que os turistas geralmente fazem ao chegar no Nepal? / RESPONSE: Muitos turistas visitam o Nepal para apreciar as paisagens das montanhas do Himalaia. Eles costumam ir direto para Thamel, o epicentro turístico de Kathmandu, e depois seguem para Pokhara antes de iniciar suas trilhas pelos Himalaias.
+
+[3: PROMPT: Qual a diferença entre um turista comum e um peregrino em Kathmandu? / RESPONSE: O turista comum busca aventura e paisagens naturais, enquanto o peregrino busca conexão espiritual com locais sagrados. O peregrino passa mais tempo explorando templos e locais religiosos em Kathmandu Valley, como a estúpa de Boudha e Swayambhu.
+
+[4: PROMPT: Qual é um bom itinerário para peregrinos em Kathmandu Valley? / RESPONSE: Um itinerário sugerido para peregrinos inclui: Dia 1 - Boudha Stupa; Dia 2 - Lhundrup Tsek; Dia 3 - Swayambhu e Arya Jamali; Dia 4 - Asura e Yangleshö; Dia 5 - É Vihara de Patan; Dia 6 - Bhaktapur; Dia 7 - Retorno a Boudha.
+
+[5: PROMPT: O que é a Boudha Stupa? / RESPONSE: A Boudha Stupa é um dos mais importantes locais budistas de Kathmandu. É um sítio de peregrinação onde fiéis fazem orações e circulam a estúpa em sentido horário, girando rodas de oração e recitando mantras.
+
+[6: PROMPT: O que é Lhundrup Tsek? / RESPONSE: Lhundrup Tsek é um charnel ground sagrado em Kathmandu, relacionado a práticas espirituais budistas. Ele inclui o famoso templo de Pashupatinath, um local de cremação às margens do rio Bagmati, onde hindus realizam cerimônias funerárias.
+
+[7: PROMPT: O que é Swayambhu? / RESPONSE: Swayambhu, também conhecido como "Templo dos Macacos", é uma estúpa sagrada em uma colina de Kathmandu. Considerado um dos locais budistas mais importantes do Nepal, oferece uma vista panorâmica da cidade e é lar de muitos macacos.
+
+[8: PROMPT: O que é Arya Jamali? / RESPONSE: Arya Jamali é um dos cinco Irmãos Avalokiteshvara Auto-Surgidos. Localizado próximo a Thamel, é um local de prática espiritual e contemplação para devotos budistas.
+
+[9: PROMPT: O que são Asura e Yangleshö? / RESPONSE: Asura e Yangleshö são cavernas sagradas na vila de Pharping, onde Guru Rinpoche praticou meditação e atingiu realização espiritual. São locais de grande significado para praticantes do budismo tibetano.
+
+[10: PROMPT: O que é É Vihara de Patan? / RESPONSE: É Vihara é um antigo monastério budista localizado em Patan, uma das três cidades reais de Kathmandu Valley. Patan é famosa por sua rica tradição budista Newar e sua arquitetura impressionante.
+
+[11: PROMPT: Por que Bhaktapur é um destino importante para peregrinos? / RESPONSE: Bhaktapur é uma cidade histórica preservada de Kathmandu Valley, associada a Yeshé Tsögyal, consorte de Padmasambhava. Possui vários templos e locais sagrados, incluindo os cinco Budas Dipamkara.
+
+[12: PROMPT: Por que retornar a Boudha ao final da peregrinação? / RESPONSE: Depois de visitar os locais sagrados de Kathmandu Valley, retornar a Boudha permite um momento de reflexão e descanso. A atmosfera espiritual e a proximidade do aeroporto fazem de Boudha um local conveniente para encerrar a jornada.]

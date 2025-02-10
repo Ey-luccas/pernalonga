@@ -1,0 +1,23 @@
+[1: PROMPT: O que é Vajrayogini? / RESPONSE: Vajrayogini é uma deusa do budismo Vajrayana, considerada uma dakini ou yogini iluminada. Ela é vista como uma emanção de Buda e representa a sabedoria transcendental. Seus templos são encontrados em várias regiões do Nepal, incluindo Kathmandu e Pharping.]
+
+[2: PROMPT: Onde estão localizados os principais templos de Vajrayogini no Vale de Kathmandu? / RESPONSE: Os principais templos de Vajrayogini estão localizados em Balaju Guhyeshwori, Pashupatinath Guhyeshwori, Sankhu Khadga Yogini, Pharping Vajrayogini, Bidhjeswori, Chapagaon Vajravarahi e Godawari.]
+
+[3: PROMPT: O que é o templo de Balaju Purano Guhyeshwori? / RESPONSE: Balaju Purano Guhyeshwori é um templo localizado ao norte de Swayambhu, próximo ao Monte Nagarjuna. Ele é considerado o local original de emergência do lótus sagrado do lago pré-histórico de Kathmandu. O templo é acessível ao público e conta com um poço coberto por uma placa de latão em forma de lótus.]
+
+[4: PROMPT: Qual a importância do templo de Pashupatinath Guhyeshwori? / RESPONSE: O templo de Pashupatinath Guhyeshwori é um importante Shakti Pitha, acreditado ser o local onde a yoni da deusa Sati caiu na Terra. O rei Pratapamalla construiu um templo no local em 1654. Dentro do templo, há uma forma natural de yoni de onde a água sagrada flui, sendo coletada pelos devotos para receber bênçãos.]
+
+[5: PROMPT: Qual a história do templo de Sankhu Vajrayogini? / RESPONSE: O templo de Sankhu Vajrayogini está localizado em uma colina ao norte da cidade de Sankhu, um antigo centro comercial do século VII. O templo abriga uma representação de Ugra Tara, ou Ekajati, conhecida como Khadga Yogini. O local também possui uma câmara com uma estupa autoexistente e um fogo eterno chamado "Fogo do Kalpa".]
+
+[6: PROMPT: Por que o templo de Pharping Vajrayogini é importante? / RESPONSE: O templo de Pharping Vajrayogini é um sítio sagrado associado ao Mahasiddha Naropa e aos mestres Newar Dharmamati e Vagishvara. Ele também é conhecido por ser um dos locais visitados pelo tradutor tibetano Marpa Lotsawa no século XI. O templo simboliza a transmissão dos ensinamentos de Vajrayogini do Nepal para o Tibete.]
+
+[7: PROMPT: O que diferencia o templo de Bidhjeswori Vajrayogini? / RESPONSE: O templo de Bidhjeswori Vajrayogini está localizado às margens do rio Bisnumati, próximo a Swayambhu. Ele está relacionado ao antigo cremador de Ramadoli e às práticas espirituais dos Mahasiddhas. É dedicado à Akashayogini, a "Yogini Voadora", através da qual o Mahasiddha Maitripa alcançou a iluminação.]
+
+[8: PROMPT: Qual a importância do templo de Chapagaon Vajravarahi? / RESPONSE: O templo de Chapagaon Vajravarahi, também conhecido como Bajrabarahi, está localizado ao sul do Vale de Kathmandu. Acredita-se que a deusa Vajravarahi tenha emergido de um lago sagrado que ainda existe no local. O templo está cercado por uma floresta sagrada, onde, segundo a tradição local, as folhas nunca ultrapassam os limites naturais da área.]
+
+[9: PROMPT: O que se sabe sobre o templo de Godawari? / RESPONSE: O templo de Godawari está situado no distrito de Lalitpur, no sudeste de Kathmandu. Ele possui um pequeno lago chamado Godavari Kunda, que tem fluxo de água perene. A lenda conta que um Siddha meditando no Nepal viajava diariamente até o rio Godavari na Índia para buscar água, até que a deusa Sarasvati fez com que o rio surgisse no local onde ele havia deixado sua bolsa e jarro.]
+
+[10: PROMPT: Como visitar os templos de Vajrayogini em três dias? / RESPONSE: Um itinerário de três dias é recomendado para visitar os templos de Vajrayogini no Vale de Kathmandu:
+- Dia 1: Guhyeshwori Temple (Pashupati) & Sankhu;
+- Dia 2: Bidhjeshwori (Swayambhu), Balaju e Pharping Vajrayogini;
+- Dia 3: Chapagaon Vajravarahi & Godawari. 
+Este roteiro permite visitar os principais locais sem pressa, aproveitando as experiências espirituais e culturais de cada templo.]

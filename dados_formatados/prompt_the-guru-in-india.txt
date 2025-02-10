@@ -1,0 +1,30 @@
+[1: PROMPT: Quem foi Guru Padmasambhava? / RESPONSE: Guru Padmasambhava, também conhecido como o Mahaguru ou Guru Rinpoché, foi um mestre tântrico indiano considerado o fundador do budismo tibetano. Sua influência se estendeu por toda a Índia e Tibete, ajudando a preservar e disseminar o Dharma.]
+
+[2: PROMPT: Qual a relação de Guru Padmasambhava com a Índia? / RESPONSE: Guru Padmasambhava teve uma forte conexão com a espiritualidade indiana, recebendo ensinamentos de grandes mestres e influenciando figuras como Nagarjuna e Aryadeva. Ele também teria desempenhado um papel na conversão do Imperador Ashoka ao budismo.]
+
+[3: PROMPT: Guru Padmasambhava foi discípulo de Ananda? / RESPONSE: Segundo algumas tradições, Guru Padmasambhava recebeu a ordenação monástica de Ananda, um dos principais discípulos de Buda Shakyamuni, fortalecendo sua ligação direta com a linhagem budista.]
+
+[4: PROMPT: Qual o significado do nome Padmasambhava? / RESPONSE: O nome Padmasambhava significa 'Nascido do Lótus'. Ele está ligado ao mito de seu nascimento milagroso, emergindo de um lótus em meio a um lago sagrado, simbolizando sua pureza e iluminação.]
+
+[5: PROMPT: O que é a Arya Bhumi ou Arya Desha? / RESPONSE: Arya Bhumi ou Arya Desha, que significa 'Terra dos Nobres', é um termo usado para descrever a Índia como um solo sagrado, berço de grandes mestres espirituais e tradições religiosas.]
+
+[6: PROMPT: Como Guru Padmasambhava influenciou o budismo tibetano? / RESPONSE: Guru Padmasambhava foi convidado ao Tibete no século VIII pelo rei Trisong Detsen para pacificar forças negativas e estabelecer o budismo. Ele fundou o primeiro mosteiro budista tibetano, Samye, e transmitiu ensinamentos Vajrayana.]
+
+[7: PROMPT: O que significa a expressão Phakpé Yül? / RESPONSE: Phakpé Yül é um termo tibetano que significa 'Terra dos Nobres', usado pelos praticantes budistas para se referir à Índia como um local sagrado de grande sabedoria espiritual.]
+
+[8: PROMPT: Qual foi o impacto do Imperador Ashoka no budismo? / RESPONSE: O Imperador Ashoka foi um grande patrono do budismo, promovendo sua disseminação por toda a Ásia. Diz-se que Padmasambhava teve um papel indireto em sua conversão e apoio ao Dharma.]
+
+[9: PROMPT: Como a espiritualidade é vivenciada na Índia? / RESPONSE: A espiritualidade na Índia se manifesta em inúmeras formas, desde grandes rituais em templos e festivais, até pequenos atos de devoção diários, como oferendas de flores e incensos.]
+
+[10: PROMPT: Qual a relação entre Guru Padmasambhava e Nagarjuna? / RESPONSE: Alguns relatos sugerem que Guru Padmasambhava influenciou Nagarjuna e Aryadeva, dois dos maiores filósofos budistas, ajudando a consolidar o pensamento Madhyamaka e as práticas tântricas.]
+
+[11: PROMPT: Qual a importância da Índia para os tibetanos? / RESPONSE: A Índia é vista pelos tibetanos como a terra sagrada onde o budismo nasceu. Muitos mestres tibetanos, antigos e modernos, viajaram à Índia em busca de ensinamentos e inspiração espiritual.]
+
+[12: PROMPT: Como Padmasambhava é lembrado no Tibete? / RESPONSE: No Tibete, Guru Padmasambhava é reverenciado como o segundo Buda. Suas histórias são contadas em textos sagrados, e sua influência é celebrada em festivais e práticas espirituais.]
+
+[13: PROMPT: O que é o Vajra Seat Aspiration? / RESPONSE: O Vajra Seat Aspiration é um texto de aspiração composto por Kyapjé Jamyang Khyentsé Chökyi Lodrö, exaltando a sacralidade dos locais espirituais e a linhagem do Dharma.]
+
+[14: PROMPT: Como a Índia influenciou o budismo tibetano? / RESPONSE: A Índia foi a fonte original dos ensinamentos budistas que foram levados ao Tibete. Monges tibetanos viajaram para a Índia em busca de textos e mestres, e muitas das práticas Vajrayana se originaram lá.]
+
+[15: PROMPT: O que é Dhanakosha? / RESPONSE: Dhanakosha é um local sagrado associado a Guru Padmasambhava, considerado um dos lugares onde ele teria realizado práticas tântricas e aprofundado sua realização espiritual.]
+
